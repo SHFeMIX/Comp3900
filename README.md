@@ -1,5 +1,6 @@
 # capstone-project-3900-h16a-cowbee
 capstone-project-3900-h16a-cowbee created by GitHub Classroom
+ps: 本人只负责后端，前端所有js都写一个文件里将近两千行跟我没有任何关系
 
 
 ## Backend:
