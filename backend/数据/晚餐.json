@@ -1,0 +1,833 @@
+[
+    {
+        "name": "Chocolate Chip Cheesecake Cupcakes",
+        "picture": "https://i2.supercook.com/5/c/d/d/5cdde52534f3e573345db3a927b66c44-0.jpg",
+        "external_link": "everydaydiabeticrecipes.com",
+        "ingredients": [
+            "cream",
+            "egg",
+            "sugar",
+            "sugar",
+            "chocolate chips",
+            "flour",
+            "cocoa",
+            "baking soda",
+            "baking powder",
+            "canola oil",
+            "vanilla",
+            "vinegar"
+        ]
+    },
+    {
+        "name": "Turkey Tetrazzini",
+        "picture": "https://i2.supercook.com/9/3/6/1/9361d2dbcfbe57cddc8c2e72365a17c9-0.jpg",
+        "external_link": "epicurious.com",
+        "ingredients": [
+            "mushroom",
+            "butter",
+            "flour",
+            "milk",
+            "chicken broth",
+            "white wine",
+            "spaghetti",
+            "peas",
+            "bread"
+        ]
+    },
+    {
+        "name": "Creamy Mushroom Chicken",
+        "picture": "https://i2.supercook.com/0/3/5/b/035bc8a6e82236d03c28cb19b54da7fe-0.jpg",
+        "external_link": "saltandlavender.com",
+        "ingredients": [
+            "chicken breast",
+            "gin",
+            "olive oil",
+            "butter",
+            "mushroom",
+            "garlic",
+            "chicken broth",
+            "lemon",
+            "mustard",
+            "cream"
+        ]
+    },
+    {
+        "name": "One-Dish Curried Rice and Shrimp Pilau (Pilaf)",
+        "picture": "https://i2.supercook.com/9/f/1/2/9f12e8a666e4f81e9c9d6b224b548617-0.jpg",
+        "external_link": "simple-nourished-living.com",
+        "ingredients": [
+            "vegetable oil",
+            "bell pepper",
+            "onion",
+            "rice",
+            "curry",
+            "cumin",
+            "eel",
+            "peas",
+            "cilantro",
+            "lime"
+        ]
+    },
+    {
+        "name": "Cream Filled Cupcakes",
+        "picture": "https://i2.supercook.com/7/5/9/b/759be5ae0397ba1e16b00732b83a36b8-0.jpg",
+        "external_link": "bakespace.com",
+        "ingredients": [
+            "flour",
+            "milk",
+            "butter",
+            "sugar",
+            "vanilla",
+            "vegetable oil",
+            "vinegar",
+            "baking soda",
+            "vanilla",
+            "flour",
+            "sugar",
+            "cocoa",
+            "chocolate chips",
+            "heavy cream"
+        ]
+    },
+    {
+        "name": "Lemon Honey Scones",
+        "picture": "https://i2.supercook.com/4/8/5/9/4859863d43c99e70cd915163a5687889-0.jpg",
+        "external_link": "wideopeneats.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "baking powder",
+            "baking soda",
+            "butter",
+            "milk",
+            "lemon",
+            "vinegar",
+            "sugar",
+            "vanilla",
+            "lemon",
+            "honey",
+            "lemon"
+        ]
+    },
+    {
+        "name": "Scallops with Spaghetti",
+        "picture": "https://i2.supercook.com/0/4/1/c/041c9d6ece560fc257c30a9ce86d3abe-0.jpg",
+        "external_link": "tasteofhome.com",
+        "ingredients": [
+            "spaghetti",
+            "scallop",
+            "clove",
+            "olive oil",
+            "butter",
+            "carrot",
+            "green beans",
+            "lemon",
+            "parsley",
+            "basil"
+        ]
+    },
+    {
+        "name": "One Pan Pork with Almonds &amp; Green Beans",
+        "picture": "https://i2.supercook.com/3/7/d/b/37db3c5cf8ed7c6cf6f63696a7f44772-0.jpg",
+        "external_link": "superhealthykids.com",
+        "ingredients": [
+            "olive oil",
+            "flour",
+            "white wine",
+            "chicken broth",
+            "milk",
+            "parsley",
+            "green beans",
+            "almond",
+            "orange"
+        ]
+    },
+    {
+        "name": "Filet Mignon Stronganoff",
+        "picture": "https://i2.supercook.com/f/1/4/7/f14794ebe3c9e8f988688b6ee3bc7cc5-0.jpg",
+        "external_link": "organizeyourselfskinny.com",
+        "ingredients": [
+            "flour",
+            "tea",
+            "olive oil",
+            "onion",
+            "clove",
+            "mushroom",
+            "beef broth",
+            "dijon mustard",
+            "sour cream",
+            "egg"
+        ]
+    },
+    {
+        "name": "Raspberry Lime Cake",
+        "picture": "https://i2.supercook.com/0/4/3/9/0439a8394a405351b9196de0d3441e43-0.jpg",
+        "external_link": "nordicware.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "baking powder",
+            "baking soda",
+            "tea",
+            "milk",
+            "lime",
+            "lime",
+            "canola oil",
+            "sour cream",
+            "vanilla",
+            "sugar",
+            "lime"
+        ]
+    },
+    {
+        "name": "Braised beef tacos",
+        "picture": "https://i2.supercook.com/d/3/a/5/d3a5845c4a2bc520489995bebb16e46c-0.jpg",
+        "external_link": "cookist.com",
+        "ingredients": [
+            "tea",
+            "onion",
+            "cream"
+        ]
+    },
+    {
+        "name": "Chocolate Sweetheart Cakes for Two Recipe - (4.5/5)",
+        "picture": "https://i2.supercook.com/5/6/1/c/561c810c2f9682388e82b4c4226a32e3-0.jpg",
+        "external_link": "keyingredient.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "sugar",
+            "baking soda",
+            "vegetable oil",
+            "vinegar",
+            "vanilla",
+            "butter",
+            "sugar",
+            "milk",
+            "vanilla"
+        ]
+    },
+    {
+        "name": "Eggless Banana Muffins with Cinnamon Streusel topping",
+        "picture": "https://i2.supercook.com/3/b/6/2/3b628f33df19147d28b1766ae9117858-0.jpg",
+        "external_link": "kannammacooks.com",
+        "ingredients": [
+            "flour",
+            "baking powder",
+            "cinnamon",
+            "butter",
+            "sugar",
+            "flour",
+            "sugar",
+            "baking powder",
+            "baking soda",
+            "butter",
+            "milk",
+            "vanilla",
+            "banana",
+            "cashew"
+        ]
+    },
+    {
+        "name": "Creamy Lemon Shrimp Pasta",
+        "picture": "https://i2.supercook.com/a/7/1/f/a71f4df10ce7c4e570dec773f8bf26ed-0.jpg",
+        "external_link": "saltandlavender.com",
+        "ingredients": [
+            "spaghetti",
+            "eel",
+            "lemon",
+            "butter",
+            "garlic",
+            "white wine",
+            "cream",
+            "flour",
+            "parmesan",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Easy Everyday Chocolate Cake",
+        "picture": "https://i2.supercook.com/6/8/c/d/68cdb716b55f1de9227786b7f2e5c503-0.jpg",
+        "external_link": "chefsavvy.com",
+        "ingredients": [
+            "flour",
+            "cocoa",
+            "baking soda",
+            "sugar",
+            "sugar",
+            "vanilla",
+            "vinegar",
+            "vegetable oil",
+            "coffee",
+            "chocolate chips",
+            "heavy cream"
+        ]
+    },
+    {
+        "name": "Vegan Orange Olive Oil Cake",
+        "picture": "https://i2.supercook.com/d/0/4/f/d04fe1a7a0c66177e98bdc8ba05a4c1f-0.jpg",
+        "external_link": "delishknowledge.com",
+        "ingredients": [
+            "milk",
+            "vinegar",
+            "orange",
+            "orange",
+            "vanilla",
+            "sugar",
+            "olive oil",
+            "flour",
+            "baking soda",
+            "sugar",
+            "orange",
+            "orange"
+        ]
+    },
+    {
+        "name": "Beer Waffles with Cinnamon-Caramel Apples",
+        "picture": "https://i2.supercook.com/f/5/c/e/f5ce415ea4cbbff0ecd919bfd0f12e29-0.jpg",
+        "external_link": "bakespace.com",
+        "ingredients": [
+            "arame",
+            "sugar",
+            "milk",
+            "cinnamon",
+            "lemon",
+            "flour",
+            "sugar",
+            "baking powder",
+            "baking soda",
+            "milk",
+            "beer",
+            "butter"
+        ]
+    },
+    {
+        "name": "Creamy Garlic Penne Pasta with Chicken",
+        "picture": "https://i2.supercook.com/a/d/b/d/adbd418ccdc12ba95e28f162e23f88c2-0.jpg",
+        "external_link": "yellowblissroad.com",
+        "ingredients": [
+            "penne",
+            "olive oil",
+            "chicken breast",
+            "garlic",
+            "flour",
+            "butter",
+            "milk",
+            "chicken broth",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Onion Gravy Smothered Steak",
+        "picture": "https://i2.supercook.com/0/e/c/0/0ec09139cb08d866f6d523f02d2a2d89-0.jpg",
+        "external_link": "diethood.com",
+        "ingredients": [
+            "garlic",
+            "vegetable oil",
+            "butter",
+            "onion",
+            "garlic",
+            "beef broth",
+            "heavy cream",
+            "parsley"
+        ]
+    },
+    {
+        "name": "The Best Chocolate Cupcake Recipe",
+        "picture": "https://i2.supercook.com/a/e/2/2/ae22813dbe93508352e193da985c0275-0.jpg",
+        "external_link": "crazyforcrust.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "cocoa",
+            "baking soda",
+            "vegetable oil",
+            "vinegar",
+            "coffee",
+            "vanilla",
+            "butter",
+            "sugar",
+            "cocoa",
+            "cream",
+            "sour cream",
+            "coffee",
+            "vanilla"
+        ]
+    },
+    {
+        "name": "Cilantro and Lime Shrimp Stir Fry Recipe",
+        "picture": "https://i2.supercook.com/5/d/5/4/5d543c4b8b37372fc416b1ab-0.jpg",
+        "external_link": "laurainthekitchen.com",
+        "ingredients": []
+    },
+    {
+        "name": "Cinnamon Roll Banana Bread Sheet Cake",
+        "picture": "https://i2.supercook.com/7/d/b/2/7db2fb92f81929d0b855016faec7d14d-0.jpg",
+        "external_link": "picky-palate.com",
+        "ingredients": [
+            "butter",
+            "sugar",
+            "sour cream",
+            "banana",
+            "cinnamon",
+            "baking soda",
+            "butter",
+            "sugar",
+            "cinnamon",
+            "butter",
+            "cream",
+            "sugar",
+            "milk"
+        ]
+    },
+    {
+        "name": "Grilled Flank Steak",
+        "picture": "https://i2.supercook.com/6/d/6/a/6d6aaca2356b11e62bbe1f53f58477cc-0.jpg",
+        "external_link": "sweetysalado.com",
+        "ingredients": [
+            "tea",
+            "orange",
+            "lime",
+            "olive oil",
+            "vinegar",
+            "onion",
+            "onion",
+            "garlic",
+            "cilantro",
+            "cumin"
+        ]
+    },
+    {
+        "name": "Simple Pasta with Peas and Ham",
+        "picture": "https://i2.supercook.com/3/d/1/2/3d126a700d72543a32e4a17ebd916813-0.jpg",
+        "external_link": "100daysofrealfood.com",
+        "ingredients": [
+            "noodle",
+            "olive oil",
+            "onion",
+            "ham",
+            "garlic",
+            "white wine",
+            "chicken broth",
+            "peas",
+            "heavy cream"
+        ]
+    },
+    {
+        "name": "Nutty Oatmeal Cranberry Bars Recipe",
+        "picture": "https://i2.supercook.com/e/2/0/e/e20e3e294006427dd753d379dae1f37c-0.jpg",
+        "external_link": "shewearsmanyhats.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "baking soda",
+            "cinnamon",
+            "butter",
+            "lemon",
+            "sour cream",
+            "vanilla",
+            "lemon",
+            "flour",
+            "sugar",
+            "walnut"
+        ]
+    },
+    {
+        "name": "Creamy Chicken Stroganoff",
+        "picture": "https://i2.supercook.com/3/5/8/3/3583ff05d4e6e116ce4a2e1f3752d04b-0.jpg",
+        "external_link": "lemontreedwelling.com",
+        "ingredients": [
+            "chicken breast",
+            "flour",
+            "butter",
+            "mushroom",
+            "onion",
+            "garlic",
+            "lemon",
+            "flour",
+            "chicken broth",
+            "dijon mustard",
+            "sour cream"
+        ]
+    },
+    {
+        "name": "Chicken Fajitas Recipe | Grilling",
+        "picture": "https://i2.supercook.com/a/0/a/5/a0a5b3e3250cee07c5c5dd4104b40c28-0.jpg",
+        "external_link": "seriouseats.com",
+        "ingredients": [
+            "cilantro",
+            "lime",
+            "garlic",
+            "olive oil",
+            "cumin",
+            "sugar",
+            "bell pepper",
+            "bell pepper",
+            "onion",
+            "cream"
+        ]
+    },
+    {
+        "name": "Chicken with Lime, Garlic and Cilantro",
+        "picture": "https://i2.supercook.com/9/2/2/f/922f106c0bdcfc979879e6108e1c65e6-0.jpg",
+        "external_link": "nerdswithknives.com",
+        "ingredients": [
+            "olive oil",
+            "cumin",
+            "clove",
+            "flour",
+            "white wine",
+            "honey",
+            "lime",
+            "lime",
+            "chicken broth",
+            "scallion",
+            "cilantro",
+            "lime"
+        ]
+    },
+    {
+        "name": "Low Carb Shrimp Tacos with Coconut Tortillas",
+        "picture": "https://i2.supercook.com/d/7/3/2/d73285d7909054d5117ca2e73b876839-0.jpg",
+        "external_link": "mylifecookbook.com",
+        "ingredients": [
+            "shrimp",
+            "lime",
+            "olive oil",
+            "chili powder",
+            "olive oil",
+            "onion",
+            "bell pepper",
+            "garlic",
+            "chili powder",
+            "cumin",
+            "tea",
+            "cilantro",
+            "lime",
+            "lime",
+            "heavy cream"
+        ]
+    },
+    {
+        "name": "Beef Stroganoff",
+        "picture": "https://i2.supercook.com/c/0/e/8/c0e8f88c0035c337bc8fca7f41298db7-0.jpg",
+        "external_link": "cravinghomecooked.com",
+        "ingredients": [
+            "tea",
+            "olive oil",
+            "butter",
+            "onion",
+            "garlic",
+            "mushroom",
+            "flour",
+            "white wine",
+            "beef broth",
+            "sour cream",
+            "egg"
+        ]
+    },
+    {
+        "name": "Cacio e Pepe Chowder",
+        "picture": "https://i2.supercook.com/9/2/d/c/92dc3be903b66b8c9e2edea1b4d86c19-0.jpg",
+        "external_link": "mantitlement.com",
+        "ingredients": [
+            "olive oil",
+            "butter",
+            "onion",
+            "tea",
+            "tea",
+            "garlic",
+            "flour",
+            "spaghetti",
+            "chicken stock",
+            "milk",
+            "heavy cream",
+            "parmesan",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Salmon with Honey-Soy Sauce",
+        "picture": "https://i2.supercook.com/4/5/9/4/459405-0.jpg",
+        "external_link": "cookstr.com",
+        "ingredients": [
+            "honey",
+            "soy sauce",
+            "mustard",
+            "butter",
+            "olive oil",
+            "salmon",
+            "mushroom",
+            "garlic",
+            "butter",
+            "white wine",
+            "onion",
+            "rice"
+        ]
+    },
+    {
+        "name": "Deb's Warm Mushroom Dip",
+        "picture": "https://i2.supercook.com/4/0/6/7/406714-0.jpg",
+        "external_link": "food.com",
+        "ingredients": [
+            "bacon",
+            "butter",
+            "onion",
+            "garlic",
+            "mushroom",
+            "flour",
+            "soy sauce",
+            "cream",
+            "tea",
+            "mustard",
+            "sour cream"
+        ]
+    },
+    {
+        "name": "Ground Beef Stroganoff",
+        "picture": "https://i2.supercook.com/5/b/c/a/5bca04341c2df87de8cfe9625aaaa212-0.jpg",
+        "external_link": "tastesoflizzyt.com",
+        "ingredients": [
+            "onion",
+            "garlic",
+            "butter",
+            "ground beef",
+            "flour",
+            "mushroom",
+            "beef broth",
+            "sour cream",
+            "egg",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Beef Tips with Mushroom Gravy",
+        "picture": "https://i2.supercook.com/c/c/3/9/cc39cfbe4454be774d85ca79675b9ce3-0.jpg",
+        "external_link": "dinneratthezoo.com",
+        "ingredients": [
+            "olive oil",
+            "tea",
+            "butter",
+            "mushroom",
+            "onion",
+            "garlic",
+            "flour",
+            "beef broth",
+            "soy sauce",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Spaghetti with Peppers and Ham",
+        "picture": "https://i2.supercook.com/e/0/9/4/e09422944d249a8613556f7385eba545-0.jpg",
+        "external_link": "tastycraze.com",
+        "ingredients": [
+            "spaghetti",
+            "tomato",
+            "ham",
+            "onion",
+            "garlic",
+            "sugar",
+            "parmesan",
+            "flour",
+            "parsley",
+            "basil",
+            "olive oil"
+        ]
+    },
+    {
+        "name": "Old Fashioned Chocolate Cake with Cranberry Topping",
+        "picture": "https://i2.supercook.com/d/d/f/9/ddf9f925d71d804889096b60a229c8f8-0.jpg",
+        "external_link": "cultureatz.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "cocoa",
+            "baking soda",
+            "vegetable oil",
+            "vinegar",
+            "coffee",
+            "vanilla",
+            "sugar",
+            "balsamic vinegar",
+            "cinnamon"
+        ]
+    },
+    {
+        "name": "Beef Stroganoff Casserole",
+        "picture": "https://i2.supercook.com/e/6/b/f/e6bf4333b4a62fae7c58cc91b6fdc41a-0.jpg",
+        "external_link": "thebakermama.com",
+        "ingredients": [
+            "egg",
+            "olive oil",
+            "onion",
+            "garlic",
+            "mushroom",
+            "tea",
+            "worcestershire",
+            "beef broth",
+            "flour",
+            "milk",
+            "sour cream",
+            "onion"
+        ]
+    },
+    {
+        "name": "Chicken with Red Pepper Sauce",
+        "picture": "https://i2.supercook.com/5/c/c/3/5cc348828b3737368451f29b-0.jpg",
+        "external_link": "foodnetwork.com",
+        "ingredients": [
+            "olive oil",
+            "butter",
+            "olive oil",
+            "onion",
+            "garlic",
+            "chicken broth",
+            "heavy cream",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Chicken Stroganoff",
+        "picture": "https://i2.supercook.com/5/c/b/3/5cb3de728b37373ab8949ea5-0.jpg",
+        "external_link": "afamilyfeast.com",
+        "ingredients": [
+            "egg",
+            "butter",
+            "mushroom",
+            "white wine",
+            "onion",
+            "chicken thighs",
+            "flour",
+            "chicken stock",
+            "mustard",
+            "sour cream",
+            "parsley"
+        ]
+    },
+    {
+        "name": "Eggless Chocolate Mousse Cake",
+        "picture": "https://i2.supercook.com/4/5/f/1/45f1fcccccef8599f4e2fe56d5df4b51-0.jpg",
+        "external_link": "cookwithmanali.com",
+        "ingredients": [
+            "flour",
+            "cocoa",
+            "baking soda",
+            "milk",
+            "vinegar",
+            "sugar",
+            "vanilla",
+            "chocolate",
+            "butter",
+            "heavy cream",
+            "vanilla",
+            "chocolate",
+            "heavy cream"
+        ]
+    },
+    {
+        "name": "Spaghetti with clams and smoked butter",
+        "picture": "https://i2.supercook.com/c/b/d/0/cbd0aa2d7e2b83db361be06a408078a3-0.jpg",
+        "external_link": "cooked.com",
+        "ingredients": [
+            "spaghetti",
+            "olive oil",
+            "onion",
+            "clove",
+            "clam",
+            "white wine",
+            "butter",
+            "tomato",
+            "lemon",
+            "basil",
+            "olive oil"
+        ]
+    },
+    {
+        "name": "Mediterranean Chicken",
+        "picture": "https://i2.supercook.com/2/2/4/3/224395-0.jpg",
+        "external_link": "food.com",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "sugar",
+            "chicken breast",
+            "butter",
+            "olive oil",
+            "onion",
+            "garlic",
+            "tomato",
+            "white wine",
+            "curry",
+            "sugar"
+        ]
+    },
+    {
+        "name": "Roasted Tomato Salmon with Peas and Carrots",
+        "picture": "https://i2.supercook.com/6/f/9/e/6f9ee0bdfbfdbc47f0b8efdc5146df2c-0.jpg",
+        "external_link": "stuckonsweet.com",
+        "ingredients": [
+            "olive oil",
+            "balsamic vinegar",
+            "garlic",
+            "lemon",
+            "basil",
+            "peas",
+            "carrot",
+            "clove",
+            "basil",
+            "butter",
+            "olive oil"
+        ]
+    },
+    {
+        "name": "French Style Stuffed Chicken Breasts",
+        "picture": "https://i2.supercook.com/4/b/9/8/4b98dc9880f047c7097ac172800ab1fa-0.jpg",
+        "external_link": "olgasflavorfactory.com",
+        "ingredients": [
+            "chicken breast",
+            "mushroom",
+            "onion",
+            "garlic",
+            "lemon",
+            "white wine",
+            "parsley",
+            "chicken broth",
+            "mustard",
+            "butter"
+        ]
+    },
+    {
+        "name": "Chicken and Pasta with Cilantro Pesto",
+        "picture": "https://i2.supercook.com/f/9/1/d/f91de8b2f144731e1cf2dc77e87883f4-0.jpg",
+        "external_link": "tasteandtellblog.com",
+        "ingredients": [
+            "olive oil",
+            "lemon",
+            "garlic",
+            "cilantro",
+            "chicken broth",
+            "olive oil",
+            "mushroom",
+            "onion"
+        ]
+    },
+    {
+        "name": "CHOCOLATE MAYONNAISE CAKE WITH BROWN SUGAR FROSTING",
+        "picture": "https://i2.supercook.com/2/b/a/6/2ba65ff07440e4f88fbd60fc457b43db-0.jpg",
+        "external_link": "thecountrycook.net",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "cocoa",
+            "baking soda",
+            "mayonnaise",
+            "vanilla",
+            "coffee",
+            "sugar",
+            "butter",
+            "milk",
+            "sugar"
+        ]
+    }
+]

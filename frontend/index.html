@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>LurkForWork</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/global.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/login_register.css">
+</head>
+
+<body>
+    <main class="page" id="main_page" >
+        <form id="form-login" class="screen-login-register">
+            <h1 class="h3 mb-3 fw-normal">Please log in</h1>
+            <div class="form-floating">
+                <input type="text" class="form-control" id="Email" placeholder="name@example.com">
+                <label for="floatingEmail">Email address</label>
+            </div>
+            <div class="form-floating">
+                <input type="password" class="form-control" id="Password" placeholder="Password">
+                <label for="floatingEmail">Password</label>
+            </div>
+            <button class="w-100 btn btn-lg btn-primary" id="button-login" type="button" style="margin-top:12px;">log in</button>
+            <button class="btn-register" id="button-go-register" type="button">Register</button>
+        </form>
+
+        <form id="form-register" class="screen-login-register" style="display: none;">
+            <h1 class="h3 mb-3 fw-normal">Please register</h1>
+            <div class="form-floating">
+                <input type="text" class="form-control" id="R_Name" placeholder="Enter Name">
+                <label for="floatingEmail">Name</label>
+            </div>
+            <div class="form-floating">
+                <input type="text" class="form-control" id="R_Email" placeholder="name@example.com">
+                <label for="floatingEmail">Email address</label>
+            </div>
+            <div class="form-floating">
+                <input type="password" class="form-control" id="R_Password" placeholder="Password">
+                <label for="floatingEmail">Password</label>
+            </div>
+            <div class="form-floating">
+                <input type="password" class="form-control" id="R_Confirm_Password" placeholder="Confirm Password">
+                <label for="floatingEmail">Confirm Password</label>
+            </div>
+            <button class="w-100 btn btn-lg btn-primary" id="button-register" type="button" style="margin-top:12px;">Register</button>
+            <button class="btn-login" id="button-go-login" type="button">login</button>
+        </form>
+    </main>
+
+    <main class="page" id="feed_page" style="display: none;">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand">Navigation bar</a>
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav" style="gap: 10px;">
+                  <button class="nav-link active" id="history" aria-current="page">Review history</button>
+                  <button class="nav-link" id="favority">Favority</button>
+                  <button class="nav-link" id="myupload">My upload</button>
+                  <button class="nav-link" id="myfollow">My follow</button>
+                  <button class="nav-link" id="button-logout">Logout</button>
+                </div>
+              </div>
+            </div>
+        </nav>
+
+        <div class="down">
+            <div class="box1" style="overflow: scroll; height: 100vh;">
+                <header class="header-block">
+                    <div>
+                        
+                        <button id="list_show" style="display: inline;font-size: 15px;">
+                            list
+                        </button>
+                        <div style="text-align:center;">
+                            <p>Ingredient cabinet</p>
+                        </div>
+                    </div>
+                    <div style="text-align:center;">
+                        <input type="search" name="search1" id="search1" placeholder="input ingredient name">
+                        <button type="button" id="addIngredient"> add</button>
+                    </div>
+                </header>
+                <section class="content-block" style="margin-top: 20px;">
+                    <div class="wrapper-fixed-group" id="IngredientCategory">
+                    </div>
+                </section>
+                <button style="margin: 35px auto 0px; display: block; height: 40px; width: 300px;" id="UploadIngredient">  upload ingredient    </button>
+                </div>
+
+            <div class="box2">
+                <div class="input-group mb-3" style="margin-top: 10px;;">
+                    <button type="button" style="margin-left: 20px;" id="getrecipes"> Get recipes</button>
+                    <input type="text" style="width: 700px; margin-left: 100px" placeholder="Please enter the name of recipe" id="recipeSearch" aria-label="Recipient's username" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
+                </div>
+                <div class="section-divider"></div>
+                <div style="margin-top: 10px; margin-bottom: 10px;">
+                    Filter
+                    <select name="SelectMealType" id="SelectMealType" style="margin-left: 200px;">
+                        <option value="none">None</option>
+                        <option value="breakfast">breakfast</option>
+                        <option value="lunch">lunch</option>
+                        <option value="dinner">dinner</option>
+                    </select>
+                </div>
+                <div class="section-divider"></div>
+                <h2 style="margin-top: 10px; margin-left: 100px" id="YouCanMakeRecipe"> You can make 0 recipes</h2>
+                <h3 style="margin-top: 10px;">
+                    Do you have?
+                </h3>
+                <div id="RecommendIngredient">
+                </div>
+                <div class="section-divider" style="margin-top: 10px;"></div>
+                <div class="row g-3" style="margin-top: 10px;" id="recipeList">
+
+                </div>
+                <div class="section-divider" style="margin-top: 10px;"></div>
+                <button style="margin: 35px auto 0px; display: block; height: 40px; width: 300px;" id="UploadRecipe">  upload recipe    </button>
+            </div>         
+        </div>
+    </main>
+
+
+
+    <footer>
+        <p>&copy; CrazyCook 2022</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+    <script src="src/main.js"></script>
+</body>
+</html>

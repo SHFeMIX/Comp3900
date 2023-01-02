@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Vegetables &amp; Greens",
+        "ingredients": [
+            "garlic",
+            "onion",
+            "bell pepper",
+            "carrot",
+            "tomato",
+            "scallion"
+        ]
+    },
+    {
+        "name": "Fruits",
+        "ingredients": [
+            "lemon",
+            "lime",
+            "apple",
+            "orange",
+            "banana",
+            "coconut"
+        ]
+    },
+    {
+        "name": "Berries",
+        "ingredients": [
+            "strawberry"
+        ]
+    },
+    {
+        "name": "Mushrooms",
+        "ingredients": [
+            "mushroom"
+        ]
+    },
+    {
+        "name": "Legumes",
+        "ingredients": [
+            "peas",
+            "green beans"
+        ]
+    },
+    {
+        "name": "Dairy &amp; Eggs",
+        "ingredients": [
+            "butter",
+            "egg",
+            "milk",
+            "heavy cream",
+            "sour cream",
+            "cream"
+        ]
+    },
+    {
+        "name": "Dairy-Free &amp; Meat Substitutes",
+        "ingredients": []
+    },
+    {
+        "name": "Cheeses",
+        "ingredients": [
+            "parmesan"
+        ]
+    },
+    {
+        "name": "Grains &amp; Cereals",
+        "ingredients": [
+            "rolled oats",
+            "rice",
+            "quinoa"
+        ]
+    },
+    {
+        "name": "Nuts &amp; Seeds",
+        "ingredients": [
+            "almond",
+            "walnut",
+            "pecan",
+            "cashew"
+        ]
+    },
+    {
+        "name": "Pasta",
+        "ingredients": [
+            "penne",
+            "spaghetti",
+            "noodle"
+        ]
+    },
+    {
+        "name": "Bread &amp; Salty Snacks",
+        "ingredients": [
+            "bread",
+            "flour tortillas"
+        ]
+    },
+    {
+        "name": "Baking",
+        "ingredients": [
+            "flour",
+            "vanilla",
+            "baking powder",
+            "baking soda",
+            "essence"
+        ]
+    },
+    {
+        "name": "Pre-Made Doughs &amp; Wrappers",
+        "ingredients": [
+            "pie crust"
+        ]
+    },
+    {
+        "name": "Herbs &amp; Spices",
+        "ingredients": [
+            "cinnamon",
+            "parsley",
+            "cilantro",
+            "cumin",
+            "basil",
+            "clove",
+            "chipotle"
+        ]
+    },
+    {
+        "name": "Seasonings &amp; Spice Blends",
+        "ingredients": [
+            "chili powder",
+            "italian seasoning",
+            "curry"
+        ]
+    },
+    {
+        "name": "Sugar &amp; Sweeteners",
+        "ingredients": [
+            "sugar",
+            "honey"
+        ]
+    },
+    {
+        "name": "Meats",
+        "ingredients": [
+            "bacon",
+            "ground beef",
+            "ham"
+        ]
+    },
+    {
+        "name": "Poultry",
+        "ingredients": [
+            "chicken breast",
+            "chicken thighs",
+            "cooked chicken",
+            "turkey breast"
+        ]
+    },
+    {
+        "name": "Fish",
+        "ingredients": [
+            "salmon",
+            "eel"
+        ]
+    },
+    {
+        "name": "Seafood &amp; Seaweed",
+        "ingredients": [
+            "shrimp",
+            "scallop",
+            "clam",
+            "arame"
+        ]
+    },
+    {
+        "name": "Oils &amp; Fats",
+        "ingredients": [
+            "olive oil",
+            "vegetable oil",
+            "canola oil"
+        ]
+    },
+    {
+        "name": "Dressings &amp; Vinegars",
+        "ingredients": [
+            "mayonnaise",
+            "balsamic vinegar",
+            "vinegar"
+        ]
+    },
+    {
+        "name": "Condiments &amp; Relishes",
+        "ingredients": [
+            "soy sauce",
+            "dijon mustard",
+            "worcestershire",
+            "hot sauce",
+            "mustard"
+        ]
+    },
+    {
+        "name": "Sauces, Spreads &amp; Dips",
+        "ingredients": []
+    },
+    {
+        "name": "Soups, Stews &amp; Stocks",
+        "ingredients": [
+            "chicken broth",
+            "vegetable broth",
+            "chicken stock",
+            "beef broth",
+            "bouillon cube"
+        ]
+    },
+    {
+        "name": "Desserts &amp; Sweet Snacks",
+        "ingredients": [
+            "cocoa",
+            "chocolate chips",
+            "chocolate"
+        ]
+    },
+    {
+        "name": "Wine, Beer &amp; Spirits",
+        "ingredients": [
+            "white wine",
+            "red wine",
+            "rum",
+            "beer",
+            "gin"
+        ]
+    },
+    {
+        "name": "Beverages",
+        "ingredients": [
+            "coffee",
+            "espresso",
+            "tea"
+        ]
+    }
+]

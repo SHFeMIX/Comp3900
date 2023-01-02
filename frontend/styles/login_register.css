@@ -1,0 +1,24 @@
+#main_page 
+{
+    width: 450px;
+    height: 440px;
+    text-align: center;
+    margin:0 auto;
+    position: relative;
+    top:90px; 
+}
+
+.btn-register
+{
+    width: 200px;
+    position: relative;
+    top:10px;
+}
+
+.btn-login
+{
+    width: 200px;
+    position: relative;
+    top:10px;
+}
+
